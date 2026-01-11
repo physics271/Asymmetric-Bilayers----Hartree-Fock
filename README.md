@@ -1,4 +1,4 @@
-# Real-Space Direct Minimization Hartree-Fock Code
+# Real-Space Direct Minimization Hartree-Fock & Hartree-Fock-Bogoliubov Code
 
 This repository contains the Hartree-Fock (HF) and homogeneous Hartree-Fock-Bogoliubov (HFB) code used for [1]. The implementation of the HF code is based on the methods of [2], while the implementation of the HFB code is based on [3]. 
 
