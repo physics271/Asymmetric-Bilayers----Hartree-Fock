@@ -5,7 +5,7 @@ This repository contains the Hartree-Fock (HF) and homogeneous Hartree-Fock-Bogo
 ## Giving Credit
 Please cite the following if using this code:
 
-[1] L Nashabeh, L Fu, "Plasmon Mediated Superconductivity in Asymmetric Electron-Hole Bilayers" (2026)
+[1] L Nashabeh, L Fu, "Plasmon Mediated Superconductivity in Asymmetric Electron-Hole Bilayers" (2026), arXiv:2601.07729 [cond-mat]
 
 [2] D. D. Dai and L. Fu, "Strong-Coupling Phases of Trions and Excitons in Electron-Hole Bilayers at Commensurate Densities" Phys. Rev. Lett. 132, 196202 (2024)
 
